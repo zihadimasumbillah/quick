@@ -1,0 +1,219 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header_part{
+
+border-bottom: 1px solid #444444;
+
+font-family: arial;
+}
+header{
+
+margin-left: 5%;
+
+width: 90%;
+
+padding: 10px 0px;
+
+overflow: hidden;
+}
+.logo{
+
+width: 15%;
+
+float: left;
+}
+.logo img{width: 49%;}
+nav{
+
+width: 35%;
+
+float: right;
+}
+nav ul{
+
+list-style: none;
+}
+nav ul li{
+
+float: left;
+
+margin-left: 32px;
+}
+.main_content{
+
+text-align: center;
+
+font-family: arial;
+
+margin: 0% 15% 10% 15%;
+}
+.main_content h1{
+
+font-family: arial;
+
+margin-top: 20px;
+
+font-size: 50px;
+}
+.main_content h2{
+
+color: #1F7ECE;
+
+font-size: 50px;
+
+padding: 13px 0;
+}
+.main_content p{
+
+text-align: center;
+}
+.main_content img{
+width: 50%;
+margin-top: 40px;
+
+}
+.secondary_content{
+
+margin:  2% 10%;
+
+overflow: hidden;
+
+font-family: arial;
+}
+.left_content{
+
+width: 50%;
+
+float: left;
+
+text-align: right;
+
+margin-right: 10px;
+}
+.left_content h2{
+
+color: #ef1a1a;
+
+font-size: 45px;
+
+font-weight: bold;
+}
+.left_content p{
+    line-height: 30px;
+}
+.right_content {
+
+}
+.right_content h2{
+
+margin-left: 5px;
+
+float: left;
+
+font-size: 45px;
+}
+.all_item{
+
+overflow: hidden;
+
+margin: 4% 5%;
+
+font-family: arial;
+height: 450px;
+}
+.item1{
+
+width: 32%;
+
+
+background-color: #FFEDED;
+
+float: left;
+
+margin-right: 2%;
+
+text-align: center;
+
+height: 100%;
+}
+.item1 img{
+width: 60%;
+}
+.item1 h4{
+    text-align: left;
+    padding: 20px;
+}
+.item1 p{
+    text-align: left;
+    padding: 0px 20px;
+    line-height: 25px;
+}
+.item2{
+
+width: 32%;
+
+
+background-color: #EAF8F4;
+
+float: left;
+
+margin-right: 2%;
+
+text-align: center;
+
+height: 100%;
+}
+.item2 img{
+    width: 60%;
+}
+.item2 h4{
+    text-align: left;
+    padding: 20px;
+}
+.item2 p{
+    text-align: left;
+    padding: 0px 20px;
+    line-height: 25px;
+}
+.item3{
+
+width: 32%;
+
+
+background-color: #FFF7E8;
+
+float: right;
+
+margin-right: 0%;
+
+text-align: center;
+
+height: 100%;
+}
+.item3 img{
+    width: 60%;
+}
+.item3 h4{
+    text-align: left;
+    padding: 20px;
+}
+.item3 p{
+    text-align: left;
+    padding: 0px 20px;
+    line-height: 25px;
+}
+footer{
+
+padding: 20px;
+
+background-color: #0082FD;
+
+text-align: center;
+
+color: white;
+}
+footer p{
+    
+}
